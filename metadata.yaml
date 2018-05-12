@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/38191
     wikipedia: http://en.wikipedia.org/wiki/Robert_W._Chambers
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40696#Who-Goes-There-
 gutenberg_issued: '2012-09-07'
 gutenberg_type: Text
 identifiers:
